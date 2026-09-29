@@ -2,11 +2,15 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Project-Descriptive%20Analytics-0ea5e9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IBM-Cognos%20Analytics-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dataset-Netflix%20Titles-E50914?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Data%20Visualization-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Analysis-Descriptive%20Analytics-14B8A6?style=for-the-badge"/>
+![Descriptive Analytics](https://img.shields.io/badge/Descriptive%20Analytics-Project-0ea5e9?style=for-the-badge)
+
+![IBM Cognos Analytics](https://img.shields.io/badge/IBM-Cognos%20Analytics-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
+
+![Netflix Dataset](https://img.shields.io/badge/Dataset-netflix__titles.csv-E50914?style=for-the-badge)
+
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-8B5CF6?style=for-the-badge)
+
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-14B8A6?style=for-the-badge)
 
 </p>
 
@@ -15,41 +19,52 @@
 </p>
 
 <p align="center">
-  An academic analytics project built with <b>IBM Cognos Analytics</b> using the
-  <code>netflix_titles.csv</code> dataset.
+  A practical Descriptive Analytics project built using
+  <b>IBM Cognos Analytics</b> and the <code>netflix_titles.csv</code> dataset.
 </p>
 
 ---
 
 ## 📌 Project Overview
 
-This project applies **Descriptive Analytics** techniques to the
-`netflix_titles.csv` dataset using **IBM Cognos Analytics**.
+This project is a practical implementation of **Descriptive Analytics**
+using the **Netflix Titles Dataset** in **IBM Cognos Analytics**.
 
-The objective is to transform Netflix title data into structured
-reports and visualizations that help understand:
+The purpose of the project is to transform raw Netflix title data into
+structured reports, summaries, comparisons, and visualizations.
 
-- 🌍 Country-wise content distribution
-- 🎭 Genre frequency
-- 📅 Release trends over years
-- 🔞 Rating category distribution
-- 🎬 Movies vs TV Shows
-- 📊 Country-wise title counts
-- 📈 Visualization-based content trends
+The analysis focuses on different dimensions of Netflix content,
+including:
 
-The project demonstrates how raw dataset fields can be transformed into
-**summaries, comparisons, counts, trends, and visual insights**.
+- 🌍 Country
+- 🎭 Genre
+- 📅 Release Year
+- 🔞 Rating
+- 🎬 Content Type
+- 📝 Description
+- 📊 Title Count
+- 📈 Trends
+- 🥧 Percentage Share
+
+The project demonstrates how descriptive analytics can be used to
+summarize and understand a real-world dataset through reporting and
+visualization.
 
 ---
 
-# 🎯 Objectives
+## 🎯 Objectives
 
-- Understand practical **Descriptive Analytics** workflows.
-- Create structured reports using IBM Cognos Analytics.
-- Perform grouping, counting, sorting, and summarization.
-- Analyze Netflix content across multiple dimensions.
-- Use visualizations to identify trends and distributions.
-- Convert raw data into clear and interpretable insights.
+The major objectives of this project are:
+
+- Understand the fundamentals of **Descriptive Analytics**.
+- Work with a real-world Netflix dataset.
+- Create and use a **Data Module** in IBM Cognos Analytics.
+- Build structured **List Reports** and **Table Reports**.
+- Apply grouping, counting, sorting, and summarization.
+- Analyze categorical and time-based data.
+- Create visualizations for analytical interpretation.
+- Present data in a clear and structured format.
+- Generate descriptive insights from raw data.
 
 ---
 
